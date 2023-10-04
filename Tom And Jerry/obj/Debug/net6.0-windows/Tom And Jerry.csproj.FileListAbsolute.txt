@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\bin\Debug\net6.0-windows\Tom And Jerry.exe
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\bin\Debug\net6.0-windows\Tom And Jerry.deps.json
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\bin\Debug\net6.0-windows\Tom And Jerry.runtimeconfig.json
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\bin\Debug\net6.0-windows\Tom And Jerry.dll
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\bin\Debug\net6.0-windows\Tom And Jerry.pdb
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom_And_Jerry.Form1.resources
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom_And_Jerry.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.dll
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\refint\Tom And Jerry.dll
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.pdb
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\Tom And Jerry.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Tom And Jerry\Tom And Jerry\obj\Debug\net6.0-windows\ref\Tom And Jerry.dll
